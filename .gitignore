@@ -1,0 +1,12 @@
+cscope*
+tags
+*.so
+*.la
+*.a
+*.so.*
+Makefile
+stamp-h1
+.deps
+*.pc
+config.*
+libtool
